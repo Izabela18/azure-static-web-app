@@ -1,0 +1,10 @@
+{
+    "configurations": {
+      "app": {
+        "appDevserverUrl": "http://localhost:4280",
+        "apiLocation": "api",
+        "run": "npm run start",
+        "swaConfigLocation": "/"
+      }
+    }
+  }
